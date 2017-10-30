@@ -16,8 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1:SQL Injection <a href="https://imgur.com/iiJ0Mu8"><img src="https://i.imgur.com/iiJ0Mu8.gif" title="source: imgur.com" /></a>
--[]Use the blind SQL injection, insert ’ OR SLEEP(5)=0--' to the position of id=“ ”, the page will propagate to load, which shows
+1.Vulnerability #1:SQL Injection <a href="https://imgur.com/iiJ0Mu8"><img src="https://i.imgur.com/iiJ0Mu8.gif" title="source: imgur.com" /></a>
+-Use the blind SQL injection, insert ’ OR SLEEP(5)=0--' to the position of id=“ ”, the page will propagate to load, which shows
 the SQL works.
 
 
