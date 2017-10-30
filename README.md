@@ -24,7 +24,7 @@ the SQL works.
 
 Vulnerability #2: Session Hijacking/Fixation  <a href="https://imgur.com/iAqB50k"><img src="https://i.imgur.com/iAqB50k.gif" title="source: imgur.com" /></a>
 
-I can log into red, then change to blue site
+With the given session ID, I can log into red, then change to blue site using same web browser
 
 
 ## Green
