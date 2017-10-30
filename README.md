@@ -24,6 +24,7 @@ Vulnerability #2: Session Hijacking/Fixation
 ## Green
 
 Vulnerability #1: Username Enumeration
+https://i.imgur.com/gctNFbd.gif
 
 Vulnerability #2: Cross-Site Scripting
 
