@@ -30,7 +30,7 @@ Vulnerability #2: Cross-Site Scripting
 
 ## Red
 
-Vulnerability #1:  Insecure Direct Object Reference
+Vulnerability #1:  Insecure Direct Object Reference <a href="https://imgur.com/rJwKI1G"><img src="https://i.imgur.com/rJwKI1G.gif" title="source: imgur.com" /></a>
 
 Vulnerability #2: Cross-Site Request Forgery
 
